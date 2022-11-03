@@ -12,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://marked-crystal-c44.notion.site/Monday-com-API-d5ad1d57518d49f6a265565afcfa03be"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          테스트 2 먼데이 입니다.
         </a>
       </header>
     </div>
