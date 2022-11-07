@@ -1,6 +1,6 @@
 {
   "name": "monday-jychoi-test2",
-  "homepage": "http://34.64.96.32:88/test/",
+  "proxy": "http://34.64.96.32:88/test/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
